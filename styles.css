@@ -1,0 +1,9 @@
+.navbar-light .navbar-brand {
+  color:red
+}
+.jumbotron {
+  background-image: url(brady.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: red;
+}
